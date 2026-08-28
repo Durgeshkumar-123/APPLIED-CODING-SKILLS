@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Math
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
