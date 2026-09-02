@@ -1,15 +1,15 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int[] count = new int[26];
+        int[] freq = new int[26];
 
-        // Count each character
+        
         for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
+            freq[s.charAt(i) - 'a']++;
         }
 
-        // Find the first character with count 1
+        
         for (int i = 0; i < s.length(); i++) {
-            if (count[s.charAt(i) - 'a'] == 1) {
+            if (freq[s.charAt(i) - 'a'] == 1) {
                 return i;
             }
         }
@@ -17,4 +17,3 @@ class Solution {
         return -1;
     }
 }
-        
