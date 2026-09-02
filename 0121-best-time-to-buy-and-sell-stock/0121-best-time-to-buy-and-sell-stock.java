@@ -4,18 +4,14 @@ class Solution {
         int maxProfit = 0;
 
         for (int i = 1; i < prices.length; i++) {
-            // Update the lowest buying price
-            if (prices[i] < minPrice) {
-                minPrice = prices[i];
-            }
-
-            // Calculate today's profit
+            // Calculate profit if we sell today
             int profit = prices[i] - minPrice;
 
             // Update maximum profit
-            if (profit > maxProfit) {
-                maxProfit = profit;
-            }
+            maxProfit = Math.max(maxProfit, profit);
+
+            // Update minimum buying price
+            minPrice = Math.min(minPrice, prices[i]);
         }
 
         return maxProfit;
