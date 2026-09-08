@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0344-reverse-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0901-online-stock-span) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
