@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0735-asteroid-collision) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -104,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0946-validate-stack-sequences) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
