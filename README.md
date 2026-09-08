@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0901-online-stock-span) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Durgeshkumar-123/APPLIED-CODING-SKILLS/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
